@@ -1,0 +1,6 @@
+value=input('')
+print(type(value))
+print(type(int(value)))
+#  if num!=A:
+#     print('you have to give intiger')
+    

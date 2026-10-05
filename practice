@@ -1,0 +1,46 @@
+# #majors = ["AMDS", "Economics", "Public Health"]
+# #print("AMDS" in majors)
+# #print("Physics" not in majors)
+# #result = None
+# #print(result)
+
+# readings = [23.1, 24.0, 22.8, 25.2]
+# match readings:
+#  case []:
+#      print("No readings")
+#  case [only]:
+#      print(f"One reading: {only}")
+#  case [first, second]:
+#      print(f"Two readings: {first}, {second}")
+#  case [first, second, *rest]:
+#      print(f"First two: {first}, {second}")
+#      print(f"Remaining: {rest}")
+
+#===========================================================================================================
+# for i in range(1,3):
+#     for j in range(1,4):
+#         print(f'({i},{j})',end=(' '))
+#         print()  
+#1st lop the complete hoi, kamne? well 1st e 1 er gyla shes hoiya print (), 
+#that print shpuld be in loop,1st loop
+#empety print e jai then 2 ta te enter kore . tai separet line hoi. 
+#na bujle just delet the empety print then see.
+#1st loop e baire diya dekhio , oita hobe na coz oita loop er baire.
+#==========================================================================================================
+
+# student = {
+# "id ": 101 ,
+# " name ": " Sara ",
+# " score ": 88,
+# " passed ": True
+# }
+# for key,value in student:
+#     print (f'{key},{value}')
+
+#==========================================================================================================
+# i=0
+# x=('hello')
+# while i+1<=3:
+#     print(x)
+#     i+=1
+#=================================================================================================

@@ -1,0 +1,10 @@
+#class note= lamda,filter,nested list matix , nai state behavior, qu diya smt
+
+item=['rice','meat','drink','banana']
+things=(input(''))
+if things in item:
+          print('present')
+else:
+        print('this item is not in the list: ')
+        item.append(things)
+print(item)
